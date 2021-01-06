@@ -13,7 +13,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
     "@fortawesome/vue-fontawesome": "^0.1.10",
     "@mdi/font": "^5.3.45",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "buefy": "^0.8.20",
     "ckeditor4": "^4.14.1",
     "ckeditor4-vue": "^1.0.1",
